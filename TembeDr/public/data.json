@@ -1,0 +1,269 @@
+{ 
+  "cars": [
+    {
+      "id": 1,
+      "title": "Villa",
+      "location": "Dunusa",
+      "price": "R2,500,000",
+      "type": "villas",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garages": 2,
+      "size": "350m²",
+      "image": "../src/assets/images/rdp1.jpg",
+      "owner": "Sphokazi Dube",
+      "email": "dubespho12@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers1.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 2,
+      "title": "Luxury Apartment",
+      "location": "Makuleni",
+      "price": "R1,800,000",
+      "type": "apartments",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garages": 1,
+      "size": "120m²",
+      "image": "../src/assets/images/rdp2.jpg",
+      "owner": "Mpilo Magaiva",
+      "email": "magaivamphilo@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers2.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 3,
+      "title": "Family Home",
+      "location": "Loliwe",
+      "price": "R2,000,000",
+      "type": "houses",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "garages": 2,
+      "size": "250m²",
+      "image": "../src/assets/images/rdp3.jpg",
+      "owner": "Lillian Mkwanazi",
+      "email": "lillianmk@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers3.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 4,
+      "title": "Condo",
+      "location": "Emagesini",
+      "price": "R3,200,000",
+      "type": "condos",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "garages": 1,
+      "size": "95m²",
+      "image": "../src/assets/images/rdp4.jpg",
+      "owner": "James Plaza",
+      "email": "Jamesthedawg@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers4.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 5,
+      "title": "Estate",
+      "location": "Makuleni",
+      "price": "R4,500,000",
+      "type": "estates",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "garages": 3,
+      "size": "500m²",
+      "image": "../src/assets/images/rdp5.jpg",
+      "owner": "Sofie Mzeze",
+      "email": "sofieelizabethmzeze@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers5.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 6,
+      "title": "Apartment",
+      "location": "Makuleni",
+      "price": "R900,000",
+      "type": "apartments",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "garages": 1,
+      "size": "300m²",
+      "image": "../src/assets/images/rdp6.jpg",
+      "owner": "Vusi Thembekwayo",
+      "email": "john.smith@email.com",
+      "contact": "+27 86 513 9251",
+      "ownerPic": "../src/assets/images/pers6.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 7,
+      "title": "classic house",
+      "location": "Emagesini",
+      "price": "R900,000",
+      "type": "villas",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "garages": 1,
+      "size": "300m²",
+      "image": "../src/assets/images/rdp7.jpg",
+      "owner": "Vusi Thembekwayo",
+      "email": "john.smith@email.com",
+      "contact": "+27 86 513 9251",
+      "ownerPic": "../src/assets/images/pers6.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 8,
+      "title": "Cozy House",
+      "location": "Loliwe",
+      "price": "R2,500/month",
+      "type": "houses",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garages": 1,
+      "size": "200m²",
+      "image": "../src/assets/images/rdp8.jpg",
+      "owner": "Sphokazi Dube",
+      "email": "dubespho12@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers1.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 9,
+      "title": "Studio Apartment",
+      "location": "Emagesini",
+      "price": "R1,500/month",
+      "type": "apartments",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "garages": 1,
+      "size": "45m²",
+      "image": "../src/assets/images/rdp9.jpg",
+      "owner": "Sphokazi Dube",
+      "email": "dubespho12@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers1.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 10,
+      "title": "Luxury Penthouse",
+      "location": "Loliwe",
+      "price": "R1,000/month",
+      "type": "penthouses",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "garages": 2,
+      "size": "180m²",
+      "image": "../src/assets/images/rdp10.jpg",
+      "owner": "Sphokazi Dube",
+      "email": "dubespho12@gmail.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers1.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 11,
+      "title": "Apartment",
+      "location": "Emagesini",
+      "price": "R900/month",
+      "type": "apartments",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "garages": 1,
+      "size": "120m²",
+      "image": "../src/assets/images/rdp11.jpg",
+      "owner": "Vusi Thembekwayo",
+      "email": "dubespho12@gmail.com",
+      "contact": "+27 86 513 9251",
+      "ownerPic": "../src/assets/images/pers6.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 12,
+      "title": "Estate",
+      "location": "Makuleni",
+      "price": "R8,500/month",
+      "type": "estates",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garages": 1,
+      "size": "140m²",
+      "image": "../src/assets/images/rdp12.jpg",
+      "owner": "Vusi Thembekwayo",
+      "email": "dubespho12@gmail.com",
+      "contact": "+27 86 513 9251",
+      "ownerPic": "../src/assets/images/pers6.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 13,
+      "title": "Condo",
+      "location": "Emagesini",
+      "price": "R10,500/month",
+      "type": "estates",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "garages": 2,
+      "size": "400m²",
+      "image": "../src/assets/images/rdp13.jpg",
+      "owner": "John Smith",
+      "email": "john.smith@email.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers1.jpg",
+      "address": "123 Villa Street, Dunusa"
+    },
+    {
+      "id": 14,
+      "title": "Apartment",
+      "location": "Makuleni",
+      "price": "R800/month",
+      "type": "apartment",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "garages": 2,
+      "size": "220m²",
+      "image": "../src/assets/images/rdp14.jpg",
+      "owner": "Victoria Van Dijk",
+      "email": "vickievandk@email.com",
+      "contact": "+27 71 234 5678",
+      "ownerPic": "../src/assets/images/pers8.jpg",
+      "address": "123 Villa Street, Dunusa"
+    }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
