@@ -51,6 +51,75 @@ const Fuel = () => {
                 </ul>
           </div>
         </div>
+
+        {/* Fuel tank, Electrical Wiring and Battery */}
+        <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
+            <div className="flex items-center mb-4">
+                <h2 className="text-2xl font-semibold text-gray-900">
+                Fuel tank, Electrical Wiring and Battery
+                </h2>
+            </div>
+            <p className="text-gray-700 mb-4">
+                You may not drive your vehicle on a public road:
+            </p>
+            <div className="bg-yellow-50 rounded-lg p-4">
+                <ul className="list-disc pl-6 space-y-2 text-gray-700">
+                    <li>If the fuel tank, carburetor, fuel receptacle or fuel pipes are faulty and or exposed that it might cause a source of danger.</li>
+                    <li>If the fuel tank is not fitted with an effective cap.</li>
+                    <li>Unless the electrical wiring and battery are properly installed, insulated and maintained so that such wiring and battery do not cause a sourse of danger.</li>
+                </ul>
+          </div>
+        </div>
+
+        {/* Engine */}
+        <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
+            <div className="flex items-center mb-4">
+                <h2 className="text-2xl font-semibold text-gray-900">
+                Engine
+                </h2>
+            </div>
+            <p className="text-gray-700 mb-4 bg-yellow-50 rounded-lg p-4">
+                If the engine of the light or heavy motor vehicle is not covered and may be a saource of danger, then such vehicle may not be driven on a public road.
+            </p>
+        </div>
+
+        {/* Emergency Warning Signs */}
+        <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
+            <div className="flex items-center mb-4">
+                <h2 className="text-2xl font-semibold text-gray-900">
+                Emergency Warning Signs
+                </h2>
+            </div>
+            <p className="text-gray-700 mb-4">
+                All goods vehicles, minibuses and busses (heavy vehicles with a GMV of more than 3 500 kg) must carry at least one emergency warning sign, if not then the heavy vehicle is not allowed on a public road.
+            </p>
+            <p className="text-gray-700 mb-4">
+                The emergency warning sign for a combination of motor vehicle (vehicle with one or more trailers) must be carried on the drawing vehicle.
+            </p>
+            <p className="text-gray-700 mb-4">
+                The driver of a stationary vehicle on a public road shall display at least one emergency warning sign in such a manner:
+            </p>
+            <div className="bg-yellow-50 rounded-lg p-4">
+                <ul className="list-disc pl-6 space-y-2 text-gray-700">
+                    <li>The sign shall be at least 45 metres from the stationary vehicle along the roadway of the public road concerned in the direction from which traffic will approach such vehicle when travelling on the side of the road closest to the vehicle.</li>
+                    <li>Sign should be places approximately as far from the edge of the road as the transverse center of the vehicle is from the edge of the road.</li>
+                    <li>The reflective sign should face approaching traffic.</li>
+                </ul>
+            </div>
+            <p className="text-gray-700 mb-4">
+                This does not apply where a vehicle is stationary:
+            </p>
+            <div className="bg-yellow-50 rounded-lg p-4">
+                <ul className="list-disc pl-6 space-y-2 text-gray-700">
+                    <li>in an area where there's a traffic sign that allows the loading and offloading of a vehicle.</li>
+                    <li>When obeying any direction given by traffic officer or traffic sign.</li>
+                    <li>On account of other traffic on the public road concerned and while the driver occupies the driving seat of such motor vehicle.</li>
+                    <li>During events when there's a state of municipal function carried out</li>
+                </ul>
+            </div>
+        </div>
+
+
       </div>
     </div>
   );

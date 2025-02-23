@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 
 import img1 from "../assets/images/accre1.jpg";
 import img2 from "../assets/images/accre2.jpg";
+import GoogleMap from './GoogleMap';
 
 // Animated card component with hover effects
 const InfoCard = ({ icon: Icon, title, description, hasButton = true }) => {
@@ -172,6 +173,7 @@ const About = () => {
             value="919 East Central Windmill Park, Boksburg"
           />
         </div>
+        <GoogleMap />
       </div>
 
       {/* Accreditation Section */}

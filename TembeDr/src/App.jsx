@@ -25,7 +25,7 @@ import Destruction from "./components/Destruction"
 import Towing from "./components/Towing"
 import Transporting from "./components/Transporting"
 import Vehicle from "./components/Vehicle"
-import Brake from "./components/Brake"
+import Brakes from "./components/Brakes"
 import Steering from "./components/Steering"
 import View from "./components/View"
 import Reflectors from "./components/Reflectors"
@@ -75,7 +75,7 @@ function App() {
         <Route path="view" element={<View />} />
         <Route path="lights" element={<Lights />} />
         <Route path="steering" element={<Steering />} />
-        <Route path="brake" element={<Brake />} />
+        <Route path="brakes" element={<Brakes />} />
         <Route path="fuel" element={<Fuel />} />
         <Route path="vehicle" element={<Vehicle />} />
         <Route path="transporting" element={<Transporting />} />
